@@ -1,0 +1,30 @@
+
+Pinging github.com [20.205.243.166] with 32 bytes of data:
+Reply from 20.205.243.166: bytes=32 time=128ms TTL=111
+Reply from 20.205.243.166: bytes=32 time=244ms TTL=111
+Reply from 20.205.243.166: bytes=32 time=161ms TTL=111
+Reply from 20.205.243.166: bytes=32 time=174ms TTL=111
+
+Ping statistics for 20.205.243.166:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 128ms, Maximum = 244ms, Average = 176ms
+    
+--------------------------------------------------------
+
+Pinging gitlab.com [172.65.251.78] with 32 bytes of data:
+Reply from 172.65.251.78: bytes=32 time=367ms TTL=52
+Reply from 172.65.251.78: bytes=32 time=184ms TTL=52
+Reply from 172.65.251.78: bytes=32 time=397ms TTL=52
+Reply from 172.65.251.78: bytes=32 time=207ms TTL=52
+
+Ping statistics for 172.65.251.78:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 184ms, Maximum = 397ms, Average = 288ms
+-----------------------------------------------------
+
+普通模式，可以移动光标在文档中的位置，hjkl分别代表左，下，上，右，0到行首，$到行尾！
+按下i键或其他非功能键，进入插入模式，可以在这个模式输入字符，回车键可以换行，按下ESC键推出插入模式，再次进入普通模式。
+在普通模式中，可以按热键:ctrl + F 向后翻页，ctrl + B 则向前翻页。在普通模式中，按下冒号，即 ：跟着输入w则存盘，w后若跟着输入文件名，则表示另外存一份其他文件，注意：对于非英文字符的的冒号，则被系统拒绝，屏幕会闪烁提示。 
+
